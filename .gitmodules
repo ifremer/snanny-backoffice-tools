@@ -1,0 +1,3 @@
+[submodule "snanny-batchImport"]
+	path = snanny-batchImport
+	url = https://github.com/ifremer/snanny-batchImport.git
